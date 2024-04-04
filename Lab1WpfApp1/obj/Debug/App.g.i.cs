@@ -48,7 +48,7 @@ namespace Lab1WpfApp1 {
         public void InitializeComponent() {
             
             #line 5 "..\..\App.xaml"
-            this.StartupUri = new System.Uri("MainWindow.xaml", System.UriKind.Relative);
+            this.StartupUri = new System.Uri("Calculator.xaml", System.UriKind.Relative);
             
             #line default
             #line hidden
