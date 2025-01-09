@@ -16,5 +16,3 @@ C:\Users\ARusskikh\source\repos\Lab1WpfApp1\Lab2\obj\Debug\Lab2.csproj.GenerateR
 C:\Users\ARusskikh\source\repos\Lab1WpfApp1\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
 C:\Users\ARusskikh\source\repos\Lab1WpfApp1\Lab2\obj\Debug\Lab2.exe
 C:\Users\ARusskikh\source\repos\Lab1WpfApp1\Lab2\obj\Debug\Lab2.pdb
-C:\Users\ARusskikh\source\repos\Lab1WpfApp1\Lab2\obj\Debug\CalculatorUniform.baml
-C:\Users\ARusskikh\source\repos\Lab1WpfApp1\Lab2\obj\Debug\CalculatorUniform.g.cs
