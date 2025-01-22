@@ -14,13 +14,13 @@
 
         <ToolBarTray>
             <ToolBar Margin="10 0">
-                <ComboBox IsEditable="True" SelectedIndex="0" Margin="5" Padding="10 5">
+                <ComboBox IsEditable="True" SelectedIndex="0" Margin="5" Padding="10 5" SelectionChanged="ComboBox_FontFamily_SelectionChanged">
                     <TextBlock>Arial</TextBlock>
                     <TextBlock>Times New Roman</TextBlock>
                     <TextBlock>Verdana</TextBlock>
                 </ComboBox>
 
-                <ComboBox IsEditable="True" SelectedIndex="1" Margin="5" Padding="10 5">
+                <ComboBox IsEditable="True" SelectedIndex="1" Margin="5" Padding="10 5" SelectionChanged="ComboBox_FontSize_SelectionChanged" >
                     <TextBlock>10</TextBlock>
                     <TextBlock>12</TextBlock>
                     <TextBlock>36</TextBlock>
@@ -28,13 +28,13 @@
 
                 <Separator />
 
-                <Button BorderBrush="#FF545454" BorderThickness="2" Padding="3" Margin="5" >
+                <Button BorderBrush="Gray" BorderThickness="2" Padding="3" Margin="5" Click="Button_Bold_Click" >
                     <Image Source="Resources/icon-boldText.png"  Height="25"/>
                 </Button>
-                <Button BorderBrush="#FF545454" BorderThickness="2" Padding="3" Margin="5" >
+                <Button BorderBrush="Gray" BorderThickness="2" Padding="3" Margin="5" Click="Button_Italic_Click" >
                     <Image Source="Resources/icon-italicText.png"  Height="25"/>
                 </Button>
-                <Button BorderBrush="#FF545454" BorderThickness="2" Padding="3" Margin="5" >
+                <Button BorderBrush="Gray" BorderThickness="2" Padding="3" Margin="5" Click="Button_Underline_Click" >
                     <Image Source="Resources/icon-underlineText.png"  Height="25"/>
                 </Button>
 
@@ -42,17 +42,17 @@
 
                 <StackPanel Margin="5 2">
                     <TextBlock>Цвет текста:</TextBlock>
-                    <RadioButton IsChecked="True">
+                    <RadioButton IsChecked="True" Checked="RadioButtonBlack_Checked">
                         <TextBlock>Чёрный</TextBlock>
                     </RadioButton>
-                    <RadioButton>
+                    <RadioButton Checked="RadioButtonRed_Checked">
                         <TextBlock Foreground="Red">Красный</TextBlock>
                     </RadioButton>
                 </StackPanel>
             </ToolBar>
         </ToolBarTray>
 
-        <TextBox Grid.Row="1" Margin="15 10 15 20" />
+        <TextBox x:Name="textBox" Grid.Row="1" Margin="15 10 15 20" />
 
     </Grid>
 </Window>
