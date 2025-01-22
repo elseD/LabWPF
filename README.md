@@ -12,9 +12,15 @@ ended at commit `67f50ed`
 ended at commit `faac72f`
 
 ## 3 homework
-![image](https://github.com/user-attachments/assets/d66b1076-c0dd-4420-8690-fb8adf25a176)
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/66f595a7-5578-45dd-8a6b-ecaa2d4dd43f" />
+
 
 ended at commit `a3ffc30`
+
+**UPD** (`9cb4db6`):
+Не заметила, что нужны обработчики. Добавила + обновила скрин лабораторной выше.
+
+Спасибо :)
 
 ## 4 homework
 TBD
