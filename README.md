@@ -23,7 +23,12 @@ ended at commit `a3ffc30`
 Спасибо :)
 
 ## 4 homework
-TBD
+![image](https://github.com/user-attachments/assets/7a8c2d6e-a8af-45d2-85c3-c945628c2c5f)
+
+![image](https://github.com/user-attachments/assets/038ac14c-073c-4345-8a4f-74d3d1171e13)
+
+
+ended at commit `0d7077e`
 
 ## 5 homework
 TBD
