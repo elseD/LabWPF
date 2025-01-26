@@ -31,7 +31,14 @@ ended at commit `a3ffc30`
 ended at commit `0d7077e`
 
 ## 5 homework
-TBD
+Обязательная часть:
+
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/99ba40ab-43cd-4f2d-a526-3cf5bed0f0a7" />
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/758e1ab9-1296-49cd-91b5-4344a18ecc0d" />
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/b5f8e97d-cfa6-4d6d-9707-65d924a4af8e" />
+
+ended at commit `41011d9`
+
 
 ## 6 homework
 TBD
