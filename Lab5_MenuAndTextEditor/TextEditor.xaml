@@ -1,0 +1,67 @@
+﻿<Window x:Class="Lab5_MenuAndTextEditor.TextEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="TextEditor" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Menu>
+            <MenuItem Header="Файл" Padding="10 5">
+                <MenuItem Header="Открыть" Click="MenuItem_Open_Click" />
+                <MenuItem Header="Сохранить" Click="MenuItem_Save_Click" />
+                <Separator />
+                <MenuItem Header="Закрыть" Click="MenuItem_Close_Click" />
+            </MenuItem>
+        </Menu>
+
+        <ToolBarTray Grid.Row="1">
+            <ToolBar Margin="10 0">
+                <ComboBox IsEditable="True" SelectedIndex="0" Margin="5" Padding="10 5" SelectionChanged="ComboBox_FontFamily_SelectionChanged">
+                    <TextBlock>Arial</TextBlock>
+                    <TextBlock>Times New Roman</TextBlock>
+                    <TextBlock>Verdana</TextBlock>
+                </ComboBox>
+
+                <ComboBox IsEditable="True" SelectedIndex="1" Margin="5" Padding="10 5" SelectionChanged="ComboBox_FontSize_SelectionChanged" >
+                    <TextBlock>10</TextBlock>
+                    <TextBlock>12</TextBlock>
+                    <TextBlock>36</TextBlock>
+                </ComboBox>
+
+                <Separator />
+
+                <Button BorderBrush="Gray" BorderThickness="2" Padding="3" Margin="5" Click="Button_Bold_Click" >
+                    <Image Source="Resources/icon-boldText.png"  Height="25"/>
+                </Button>
+                <Button BorderBrush="Gray" BorderThickness="2" Padding="3" Margin="5" Click="Button_Italic_Click" >
+                    <Image Source="Resources/icon-italicText.png"  Height="25"/>
+                </Button>
+                <Button BorderBrush="Gray" BorderThickness="2" Padding="3" Margin="5" Click="Button_Underline_Click" >
+                    <Image Source="Resources/icon-underlineText.png"  Height="25"/>
+                </Button>
+
+                <Separator />
+
+                <StackPanel Margin="5 2">
+                    <TextBlock>Цвет текста:</TextBlock>
+                    <RadioButton IsChecked="True" Checked="RadioButtonBlack_Checked">
+                        <TextBlock>Чёрный</TextBlock>
+                    </RadioButton>
+                    <RadioButton Checked="RadioButtonRed_Checked">
+                        <TextBlock Foreground="Red">Красный</TextBlock>
+                    </RadioButton>
+                </StackPanel>
+            </ToolBar>
+        </ToolBarTray>
+
+        <TextBox x:Name="textBox" Grid.Row="2" Margin="15 10 15 20" />
+
+    </Grid>
+</Window>

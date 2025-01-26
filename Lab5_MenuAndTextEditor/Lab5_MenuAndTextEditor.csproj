@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\icon-boldText.png" />
+    <None Remove="Resources\icon-italicText.png" />
+    <None Remove="Resources\icon-underlineText.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\icon-boldText.png" />
+    <Resource Include="Resources\icon-italicText.png" />
+    <Resource Include="Resources\icon-underlineText.png" />
+  </ItemGroup>
+
+</Project>
