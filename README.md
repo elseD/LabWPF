@@ -41,7 +41,9 @@ ended at commit `41011d9`
 
 
 ## 6 homework
-TBD
+No UI
+
+ended at commit `43d50cb`
 
 ## 7 homework
 TBD
