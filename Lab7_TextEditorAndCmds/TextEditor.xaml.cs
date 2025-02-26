@@ -137,7 +137,7 @@ namespace Lab7_TextEditorAndCmds
         {
             if (textBox.Text != null)
             {
-                if(textBox.Text.Length > 10)
+                if(textBox.Text.Length < 10)
                 {
                     e.CanExecute = true;
                 }
