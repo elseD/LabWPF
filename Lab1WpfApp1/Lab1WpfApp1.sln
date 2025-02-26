@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab4_CurrencyConverter", ".
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab5_MenuAndTextEditor", "..\Lab5_MenuAndTextEditor\Lab5_MenuAndTextEditor.csproj", "{3714F3A9-909E-425C-9524-BCF996F0EA4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_WeatherControl", "..\Lab6_WeatherControl\Lab6_WeatherControl.csproj", "{425576A2-6FE2-4757-8A53-2E5A870025B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab6_WeatherControl", "..\Lab6_WeatherControl\Lab6_WeatherControl.csproj", "{425576A2-6FE2-4757-8A53-2E5A870025B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7_TextEditorAndCmds", "..\Lab7_TextEditorAndCmds\Lab7_TextEditorAndCmds.csproj", "{0BF9008F-3197-4E77-A4FC-80C25EE321EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{425576A2-6FE2-4757-8A53-2E5A870025B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{425576A2-6FE2-4757-8A53-2E5A870025B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{425576A2-6FE2-4757-8A53-2E5A870025B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF9008F-3197-4E77-A4FC-80C25EE321EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF9008F-3197-4E77-A4FC-80C25EE321EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF9008F-3197-4E77-A4FC-80C25EE321EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF9008F-3197-4E77-A4FC-80C25EE321EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
