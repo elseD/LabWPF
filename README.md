@@ -46,7 +46,10 @@ No UI
 ended at commit `43d50cb`
 
 ## 7 homework
-TBD
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/e10f88d7-a7e5-4f60-a3dc-a0834fe14cd9" />
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/e0c4bf41-77a4-4650-a250-09d8fbffe19a" />
+
+ended at commit `b3862ae`
 
 ## 8 homework
 TBD
