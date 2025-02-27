@@ -2,16 +2,27 @@
 homework for WPF course
 
 ## 1 homework
+<details>
+<summary>Скрины и инфо</summary>
+ 
 ![image](https://github.com/elseD/LabWPF/assets/15214028/1d7f66cb-9a25-4fb3-a3b1-967ca0d1401b)
 
 ended at commit `67f50ed`
+</details>
 
 ## 2 homework
+<details>
+<summary>Скрины и инфо</summary>
+ 
 <img width="283" alt="image" src="https://github.com/user-attachments/assets/fbacd2b2-1c81-43a6-bff9-f4a3ec124b01" />
 
 ended at commit `faac72f`
+</details>
 
 ## 3 homework
+<details>
+<summary>Скрины и инфо</summary>
+ 
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/66f595a7-5578-45dd-8a6b-ecaa2d4dd43f" />
 
 
@@ -21,16 +32,24 @@ ended at commit `a3ffc30`
 Не заметила, что нужны обработчики. Добавила + обновила скрин лабораторной выше.
 
 Спасибо :)
+</details>
 
 ## 4 homework
+<details>
+<summary>Скрины и инфо</summary>
+ 
 ![image](https://github.com/user-attachments/assets/7a8c2d6e-a8af-45d2-85c3-c945628c2c5f)
 
 ![image](https://github.com/user-attachments/assets/038ac14c-073c-4345-8a4f-74d3d1171e13)
 
 
 ended at commit `0d7077e`
+</details>
 
 ## 5 homework
+<details>
+<summary>Скрины и инфо</summary>
+ 
 Обязательная часть:
 
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/99ba40ab-43cd-4f2d-a526-3cf5bed0f0a7" />
@@ -38,7 +57,7 @@ ended at commit `0d7077e`
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/b5f8e97d-cfa6-4d6d-9707-65d924a4af8e" />
 
 ended at commit `41011d9`
-
+</details>
 
 ## 6 homework
 No UI
@@ -52,7 +71,10 @@ ended at commit `43d50cb`
 ended at commit `b3862ae`
 
 ## 8 homework
-TBD
+
+![image](https://github.com/user-attachments/assets/891b8ead-60de-4a58-80fe-e00fdb275458)
+
+ended at commit `4ac4862`
 
 ## 9 homework
 TBD
