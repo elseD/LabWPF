@@ -1,5 +1,7 @@
 ﻿.vs
 */obj
+obj
 Debug
+*/Debug
 *.i
 *.i.*
