@@ -65,19 +65,29 @@ No UI
 ended at commit `43d50cb`
 
 ## 7 homework
+<details>
+<summary>Скрины и инфо</summary>
+ 
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/e10f88d7-a7e5-4f60-a3dc-a0834fe14cd9" />
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/e0c4bf41-77a4-4650-a250-09d8fbffe19a" />
 
 ended at commit `b3862ae`
+</details>
 
 ## 8 homework
-
+<details>
+<summary>Скрины и инфо</summary>
+ 
 ![image](https://github.com/user-attachments/assets/891b8ead-60de-4a58-80fe-e00fdb275458)
 
 ended at commit `4ac4862`
+</details>
 
 ## 9 homework
-TBD
+![image](https://github.com/user-attachments/assets/a6080566-77bf-4355-9a8d-b2ec60d24ac3)
+![image](https://github.com/user-attachments/assets/15cb9428-7c59-4526-86d9-46f29c411231)
+
+ended at commit `aadd8ba`
 
 ## 10 homework
 TBD
