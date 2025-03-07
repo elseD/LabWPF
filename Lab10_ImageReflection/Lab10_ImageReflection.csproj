@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\fishes.jpg" />
+    <None Remove="Images\stars.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\fishes.jpg" />
+    <Resource Include="Images\stars.jpg" />
+  </ItemGroup>
+
+</Project>
