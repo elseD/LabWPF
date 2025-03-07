@@ -90,7 +90,10 @@ ended at commit `4ac4862`
 ended at commit `aadd8ba`
 
 ## 10 homework
-TBD
+![image](https://github.com/user-attachments/assets/0d40e93d-d5e8-417d-b13b-7ec388a6b4f3)
+![image](https://github.com/user-attachments/assets/04dabdeb-e7cb-4381-9ed8-69651f1243a6)
+
+ended at commit `531c1e6`
 
 ## 11 homework
 TBD
