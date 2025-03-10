@@ -111,5 +111,22 @@ ended at commit `db3ea33`
 
 ended at commit `14993da`
 
-## 14 homework
+## 14 homework, DataTemplate
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/8ddb3190-fa54-491a-b262-cd480b2904d9" />
+
+ended at `1765722`
+
+## 15 homework
+TBD
+
+## 16 homework
+TBD
+
+## 17 homework
+TBD
+
+## 18 homework
+TBD
+
+## 19 homework
 TBD
