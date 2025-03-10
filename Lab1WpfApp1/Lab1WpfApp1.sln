@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab11_Geometry", "..\Lab11_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab12_Templates", "..\Lab12_Templates\Lab12_Templates.csproj", "{772DEFCF-8869-423E-9391-64FEA32F1C77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab13_Binding", "..\Lab13_Binding\Lab13_Binding.csproj", "{75D9F771-7D69-4399-A974-180FE77D1243}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{772DEFCF-8869-423E-9391-64FEA32F1C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{772DEFCF-8869-423E-9391-64FEA32F1C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{772DEFCF-8869-423E-9391-64FEA32F1C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D9F771-7D69-4399-A974-180FE77D1243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D9F771-7D69-4399-A974-180FE77D1243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D9F771-7D69-4399-A974-180FE77D1243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D9F771-7D69-4399-A974-180FE77D1243}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
