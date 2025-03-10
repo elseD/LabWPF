@@ -102,7 +102,9 @@ ended at commit `531c1e6`
 ended at commit `82d13db`
 
 ## 12 homework
-TBD
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/78c99e4a-088a-4e6d-b589-9aae1b891c89" />
+
+ended at `db3ea33`
 
 ## 13 homework
 TBD
