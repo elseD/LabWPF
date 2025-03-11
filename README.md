@@ -117,7 +117,10 @@ ended at commit `14993da`
 ended at `1765722`
 
 ## 15 homework
-TBD
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/ff860780-0d91-444c-8337-229ffc08cd24" />
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/ee6a8a6e-dbcb-46e2-9e56-3553f03dcd3c" />
+
+ended at commit `eeaa4e7`
 
 ## 16 homework
 TBD
