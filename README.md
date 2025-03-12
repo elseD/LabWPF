@@ -122,8 +122,11 @@ ended at `1765722`
 
 ended at commit `eeaa4e7`
 
-## 16 homework
-TBD
+## 16 homework, Animation
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/ac0b1dda-27e9-4ef9-a3da-ab4b92b99548" />
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/e1570320-c22f-4e96-b19a-4530f582e331" />
+
+ended at commit `6c14169`
 
 ## 17 homework
 TBD
