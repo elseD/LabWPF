@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab14_DataTemplate", "..\La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab15_FlowDoc", "..\Lab15_FlowDoc\Lab15_FlowDoc.csproj", "{34B3DC73-D119-4D10-A9A9-0959E183D850}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab16_Animation", "..\Lab16_Animation\Lab16_Animation.csproj", "{CC1A0879-0EC8-4CA6-A00E-5B6BB72EFF1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{34B3DC73-D119-4D10-A9A9-0959E183D850}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34B3DC73-D119-4D10-A9A9-0959E183D850}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34B3DC73-D119-4D10-A9A9-0959E183D850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1A0879-0EC8-4CA6-A00E-5B6BB72EFF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1A0879-0EC8-4CA6-A00E-5B6BB72EFF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1A0879-0EC8-4CA6-A00E-5B6BB72EFF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1A0879-0EC8-4CA6-A00E-5B6BB72EFF1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
