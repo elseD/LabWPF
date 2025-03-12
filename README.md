@@ -128,8 +128,10 @@ ended at commit `eeaa4e7`
 
 ended at commit `6c14169`
 
-## 17 homework
-TBD
+## 17 homework, Custom Control
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/e1e8b60f-16fb-4e14-87c8-543e85e109a7" />
+
+ended at commit `6d2fdb9`
 
 ## 18 homework
 TBD
