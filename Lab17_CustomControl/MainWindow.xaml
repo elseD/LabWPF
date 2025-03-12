@@ -1,0 +1,18 @@
+﻿<Window x:Class="Lab17_CustomControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab17_CustomControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+      
+        <local:ColorChoise ColorChanged="ColorChoise_ColorChanged" Height="250" />
+        <TextBlock Grid.Row="1" x:Name="txb" Text="Полученный цвет: #FF000000" FontSize="32" HorizontalAlignment="Center" />
+    </Grid>
+</Window>

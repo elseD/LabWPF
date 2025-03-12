@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="Lab17_CustomControl.ColorChoise"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Lab17_CustomControl"
+             mc:Ignorable="d" 
+             Name="colorChoise"
+             d:DesignHeight="100" d:DesignWidth="200">
+    <Viewbox>
+        <Grid Width="200" Height="100">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel>
+                <Slider Name="redSlider" Margin="5" Minimum="0" Maximum="255"
+                        Value="{Binding ElementName=colorChoise, Path=Red}"/>
+
+                <Slider Name="greenSlider" Margin="5" Minimum="0" Maximum="255"
+                         Value="{Binding ElementName=colorChoise, Path=Green}" />
+
+
+                <Slider Name="blueSlider" Margin="5" Minimum="0" Maximum="255"
+                         Value="{Binding ElementName=colorChoise, Path=Blue}" />
+            </StackPanel>
+
+            <Rectangle Grid.Column="1" Name="rect" Stroke="Black" Width="50" Height="70" Margin="10 5" VerticalAlignment="Top">
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="{Binding ElementName=colorChoise,Path=Color}"></SolidColorBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+        </Grid>
+    </Viewbox>
+</UserControl>
