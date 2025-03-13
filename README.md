@@ -133,11 +133,13 @@ ended at commit `6c14169`
 
 ended at commit `6d2fdb9`
 
-## 18 homework
+## 18 homework, 3D Graphic
 Не была уверена, должен ли был четырехугольник быть плоским или нет, так что нарисовала оба варианта
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/e6627d8f-b4b4-4e65-a972-5b7959ed476a" />
 
 ended at commit `ac68fb6`
 
-## 19 homework
-TBD
+## 19 homework, MVVP
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/b31ac01d-d094-4470-b8c1-13b7157679eb" />
+
+ended at commit `786492b`
