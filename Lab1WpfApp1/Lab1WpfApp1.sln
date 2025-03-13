@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab16_Animation", "..\Lab16
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab17_CustomControl", "..\Lab17_CustomControl\Lab17_CustomControl.csproj", "{9DA6FCE4-9006-4714-8A67-C8E127B26AC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab18_3D", "..\Lab18_3D\Lab18_3D.csproj", "{63829BB5-9DFD-4180-A975-28FEF1F03A44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{9DA6FCE4-9006-4714-8A67-C8E127B26AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DA6FCE4-9006-4714-8A67-C8E127B26AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DA6FCE4-9006-4714-8A67-C8E127B26AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63829BB5-9DFD-4180-A975-28FEF1F03A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63829BB5-9DFD-4180-A975-28FEF1F03A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63829BB5-9DFD-4180-A975-28FEF1F03A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63829BB5-9DFD-4180-A975-28FEF1F03A44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
